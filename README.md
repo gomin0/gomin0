@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
 ---
-####😃stats
+#### 😃 stats
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomin0&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=end1113)](https://solved.ac/end1113)
 
-####Mo😍st Used Languages
+#### 😍 Most Used Languages
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomin0&layout=compact)](https://github.com/gomin0/github-readme-stats)
