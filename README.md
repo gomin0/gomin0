@@ -27,17 +27,13 @@
 ## :hammer_and_wrench: Tech Stack
 
 * ### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
 
 * ### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
 
 * ### Backend
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/>
 
 
 ---
