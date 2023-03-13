@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20gomin0&fontSize=70)
----
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/>
