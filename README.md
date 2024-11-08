@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Wellcome%20to%20gomin0's%20github&fontSize=50)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gomin__0/)](https://www.instagram.com/prgrmin_0317/) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=round-square&logo=Gmail&logoColor=white&link=https://mail.naver.com/mail/?view=cm&fs=1&to=gomin0981113@naver.com)](https://mail.naver.com/mail/?view=cm&fs=1&to=gomin0981113@naver.com)
-
 
 ## 👷 Career
 
