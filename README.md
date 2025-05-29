@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20개발자%20고민영입니다.&fontSize=50)
+# 고민영
+
+**BackEnd Developer**
+
+안녕하세요 백엔드 개발자 고민영 입니다.
 
 
 ## 👷 Career
@@ -12,17 +16,13 @@
 | 인턴 | 2025.03.04 ~ 2024.05.31 |         클라우드개발(백엔드)         |    가비아    |     💻     |
 
 
-## :hammer_and_wrench: Tech Stack
+## 🛠️ Tech Stack
 
-* ### Language
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+### • Language  
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
-* ### Frontend
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
-
-* ### Backend
-  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white"/>
-
+### • Backend  
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 
 ---
 #### 😃 stats
